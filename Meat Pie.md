@@ -27,4 +27,4 @@ some holes in the top for ventilation.
 Bake at 350 F until golden, about an hour.
 
 
-[1]: <Pie Crust.md> "Pie Crust Recipe"
+[1]: Pie%20Crust.md "Pie Crust Recipe"

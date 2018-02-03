@@ -14,12 +14,10 @@
  - 3 in ginger
  - salt
 
-
  - 2 large onions, chunked
  - 1 C golden raisins
  - 8 oz cashews
- - paneer
-
+ - [paneer][1]
 
  - 1 tsp ground cardamom
  - 1 tsp garam masala
@@ -44,3 +42,6 @@ it's done.
 Just before serving, add the ground cardamom, the remaining teaspoon of garam
 masala, and the cilantro.  Add cream until you get a nice consistency.  Season
 with salt and sugar.
+
+
+[1]: Paneer.md "Paneer Recipe"

@@ -9,6 +9,7 @@
  - 3 C vegetable broth
  - 3 lbs yams
 
+ - 1 T crushed red pepper (optional)
  - 1 lb polish sausage
  - 4 green apples
  - 2 lbs carrots
@@ -24,10 +25,11 @@ Sauté  the onions with oil and salt in a  Dutch oven until caramelized.  Cut th
 yams into chunks and add them to the onions along with the vegetable broth.  Let
 simmer for a while.
 
-Chop the apples and carrots and thinly slice the sausage.  Add all of these. Let
-simmer for a while longer.
+Chop the apples and carrots and thinly slice the sausage.  Add all of these.  If
+you're using the crushed red pepper, add it now as well.  Let simmer for a while
+longer.
 
-Add the Worchestershire sauce and cloves.  Season with salt.
+Add the Worchestershire sauce and cloves.  Salt to taste.
 
 
 ## Notes

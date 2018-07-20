@@ -12,6 +12,7 @@
  - 1 T balsamic vinegar
  - 1 tsp rosemary
  - 2 tsp sea salt
+ - black pepper
 
 
 ## Instructions
@@ -24,7 +25,8 @@ are brown, add the flour and brown sugar. Stir until the onions are coated, then
 add the balsamic vinegar, rosemary, and salt.  Remove from heat.
 
 Cut the peaches into chunks.  Add them and the bacon bits  to the onion mixture.
-Stir until mixed, then pour into the pie shell.  Top with the second crust.
+Mix and pour into the pie shell.  Top with the second crust.  Garnish with black
+pepper.
 
 Bake at 350 F until golden, about an hour.
 

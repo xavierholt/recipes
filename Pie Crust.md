@@ -29,5 +29,5 @@ foil and keep baking until golden, another five or ten minutes.
 ## Notes
 
 If you want a puffier, breadier crust -  I like to use these on meat pies  - use
-self-raising flour.  If you don't have any,  make your own by adding between 1/2
-and 1 1/2 tsp baking soda to the flour.
+self-raising flour.  If you don't have any,  make your own  by adding  1 1/2 tsp
+baking soda to the flour.

@@ -1,14 +1,20 @@
 # Poppyseed Muffins
 
+## Ingredients
+
 - 2 C flour
 - 1/4 C poppyseeds
 - 1/2 tsp salt
 - 1/4 tsp baking soda
+
 - 1 C sugar
 - 1/2 C butter, softened
 - 2 eggs
 - 3/4 C sour cream
 - 1 tsp vanilla
+
+
+## Instructions
 
 In a small bowl,  stir together flour,  poppyseeds, salt, and baking soda.  In a
 large bowl, beat sugar and butter with an electric mixer for 2 minutes.  Beat in

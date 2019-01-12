@@ -24,7 +24,7 @@ it's ready.
 
 Unless you have a _really_ big pot,  do two batches of boiling as written above.
 Milk tends to foam up  very large  and  very fast.  If your cold milk fills more
-than half of your pot, it's probably too small.
+than half of your pot, your pot is too small.
 
 To get  a satisfying firmness,  I use a cider press and a  significant amount of
 pressure.   You can press it under  a weighted plate  as well,  but you'll get a

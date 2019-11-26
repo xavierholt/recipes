@@ -19,7 +19,7 @@
 
 Mix one pie crust.
 
-Preheat oven to  475 F.  Toast the pecans whie the oven is heating - this should
+Preheat oven to 475 F.  Toast the pecans while the oven is heating - this should
 take ten or fifteen minutes.
 
 Mix the melted butter, corn syrup, brown sugar, eggs, and salt  in a large bowl.
@@ -39,7 +39,7 @@ and by letting the pie sit overnight  to solidify.  Refrigerating it works quite
 nicely as well.
 
 The rum and chocolate chips are both technically optional.  Replace these with a
-teaspoon or so of vanilla and you get a traditional pecan pie.
+teaspoon or so of vanilla and you'll get a traditional pecan pie.
 
 
 [1]: Pie%20Crust.md "Pie Crust Recipe"

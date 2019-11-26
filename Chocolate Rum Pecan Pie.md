@@ -19,7 +19,8 @@
 
 Mix one pie crust.
 
-Preheat oven to 475 F. Use this to toast the pecans (about ten minutes).
+Preheat oven to  475 F.  Toast the pecans whie the oven is heating - this should
+take ten or fifteen minutes.
 
 Mix the melted butter, corn syrup, brown sugar, eggs, and salt  in a large bowl.
 Stir in the pecans, chocolate chips, and rum.

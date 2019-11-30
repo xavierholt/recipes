@@ -19,7 +19,7 @@
 
 Mix one pie crust.
 
-Preheat oven to 475 F.  Toast the pecans while the oven is heating - this should
+Preheat oven to 375 F.  Toast the pecans while the oven is heating - this should
 take ten or fifteen minutes.
 
 Mix the melted butter, corn syrup, brown sugar, eggs, and salt  in a large bowl.

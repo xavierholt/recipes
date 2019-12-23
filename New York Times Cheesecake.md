@@ -34,9 +34,9 @@ several hours before serving, ideally overnight.
 
 ## Notes
 
-This is based on a recipe by Craig Claibone that the New York Times published as
-[Deluxe Cheesecake][1] in 1963.  The original recipe calls for lemon zest, but I
-didn't have lemons the first time I made it,  and so substituted the tart liquid
+This is based on a recipe by  Craig Claiborne  that the New York Times published
+as [Deluxe Cheesecake][1] in1963.  The original recipe calls for lemon zest, but
+I didn't have lemons the first time I made it,  so I substituted the tart liquid
 I did have handy:  balsamic vinegar.  This proved to be a great improvement over
 the original lemon flavor, and I've made it with balsamic vinegar ever since.
 

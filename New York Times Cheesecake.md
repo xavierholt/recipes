@@ -41,4 +41,4 @@ I did have handy:  balsamic vinegar.  This proved to be a great improvement over
 the original lemon flavor, and I've made it with balsamic vinegar ever since.
 
 
-[1][https://cooking.nytimes.com/recipes/1016079-deluxe-cheesecake]
+[1]: https://cooking.nytimes.com/recipes/1016079-deluxe-cheesecake "Original Recipe"

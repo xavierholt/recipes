@@ -14,7 +14,7 @@
 
 - 5 eggs
 - 2 egg yolks
-- 1/4 heavy cream
+- 1/4 C heavy cream
 
 
 ## Instructions

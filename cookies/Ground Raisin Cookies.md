@@ -29,3 +29,6 @@ the tablespoon, three inches apart. Bake at 350 F until brown, about 10 minutes.
 ## Notes
 
 We inherited this recipe from my grandmother, Naomi Burk, née Brown.
+
+This dough gets extremely thick,  and will probably overwhelm an electric mixer.
+Be prepared to get a bit of a workout mixing the raisins in by hand.

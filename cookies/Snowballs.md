@@ -19,12 +19,13 @@ fluffy.
 - 2 C pecans, toasted and chopped
 
 Stir in the flour and chopped nuts. Mix well.  Shape the dough into 1-inch balls
-and place on a grased cookie sheet.  Bake at 350 F for 15 minutes.
+and place on a greased cookie sheet.  Bake at 350 F for 15 minutes.
 
 - powdered sugar
 
 A few minutes  after the cookies  come out  of the oven,  roll them  in powdered
-sugar while they're still warm.  Once they cool, roll them again.
+sugar while they're still warm.  After they cool,  roll them in powdered sugar a
+second time.
 
 
 ## Notes

@@ -4,13 +4,11 @@ This  is an attempt  to recreate  the fantastic  shahi paneer you can get at the
 Punjab Palace  in  Riverside,  California.  I'll often  make  it  with a side of
 [non-naan][2].
 
+## Ingredients & Instructions
 
-### Paneer
+- [paneer][1]
 
-Make a batch of [paneer][1] first, so it can set while you cook.
-
-
-### Whole Spices
+Make a batch of paneer first, so it can set while you cook.
 
 - 4 tsp coriander seed
 - 2 tsp cumin seed
@@ -18,11 +16,8 @@ Make a batch of [paneer][1] first, so it can set while you cook.
 
 Fry the cumin and coriander seeds in oil until fragrant.
 
-
-### Curry Base
-
 - 3 in ginger
-- 4 oz cashews
+- 4 oz (1/2 can) cashews
 - 1 large onion, minced
 - 6 oz tomato paste
 - 2 tsp ground turmeric
@@ -35,21 +30,15 @@ Grind the ginger and cashews into a paste.  Add this paste  to the frying seeds.
 Add the minced onion, tomato paste, ground spices, salt, and a little water. Fry
 a bit more.
 
-
-### Body
-
 - 2 large onions
+- 4 oz (1/2 can) whole cashews
 - 1 C golden raisins
-- 4 oz whole cashews
 - paneer
 - water
 
 Chop the onions into one-inch squares.  Cut the paneer into one-inch cubes.  Add
 both of these, whole cashews, the raisins, some salt, and some water. Cook until
 it's done.
-
-
-### Finishing
 
 - 1 tsp ground cardamom
 - 1 tsp garam masala

@@ -25,7 +25,7 @@ crust and prebake it in a ten-inch cheesecake pan.
 Beat the cream cheese until fluffy.  Mix in vanilla and balsamic vinegar.
 
 Combine sugar, flour, and salt  in a small bowl.  Slowly add these to the cheese
-mixture.  Mix in eggs and egg yolks, onne at a time, followed by the cream.
+mixture.  Mix in eggs and egg yolks, one at a time, followed by the cream.
 
 Bake at 475 F for ten minutes,  then reduce oven temperature to 200 F.  Bake for
 one hour longer. Turn off the oven and let the cheesecake cool inside. Chill for

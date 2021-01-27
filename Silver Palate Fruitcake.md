@@ -6,7 +6,7 @@ with  people who  love fruitcake but  hate citron.  My parents  make a batch for
 friends and family every Christmas.
 
 This is a  very polarizing dessert!  People tend to be either completely in love
-with it or complletely indifferent.
+with it or completely indifferent.
 
 
 ## Ingredients & Instructions

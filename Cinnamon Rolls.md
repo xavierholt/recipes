@@ -10,8 +10,8 @@ exactly half of the dough and filling.
 This takes a total of 5 1/2 to 6 1/2 cups of flour.
 
 - 2 C flour
+- 3/4 oz yeast (3 packages)
 - 1/2 C sugar
-- 3 pkg yeast
 - 2 tsp salt
 
 Mix dry ingredients in a large bowl.
@@ -24,8 +24,9 @@ Heat the wet ingredients in a small saucepan until very warm (120 to 130 F). Add
 to the dry ingredients and blend well.
 
 - 2 to 3 C flour
+- 1 egg
 
-Mix in more flour until a stiff dough forms.
+Add an egg.  Mix in more flour until a stiff dough forms.
 
 - 1 to 1 1/2 C flour
 
@@ -50,7 +51,7 @@ While the dough is resting, mix all ingredients into a paste.
 - 2 T corn syrup
 - 1/4 C toasted pecans
 
-While the dough is resting,  mix the butter, sugar, and corn syrup.  Pour into a
+While the dough is resting, mix the butter, sugar, and corn syrup. Spread into a
 9x13 baking pan.  Sprinkle with chopped pecans.
 
 
@@ -70,7 +71,7 @@ Cover all pans with foil or plastic wrap.  Refrigerate at least two hours.
 ### Baking
 
 Preheat oven to 375 F.  Take the rolls out of the refrigerator and let stand for
-ten minutes.  Bake for 20 to 25 minutes, until deep golden brown.
+ten minutes.  Bake for 20 to 25 minutes, until golden brown.
 
 Cool briefly, then invert onto serving trays.
 

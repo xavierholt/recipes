@@ -25,4 +25,9 @@ directly into the boiling water.  Boil for about two minutes.
 
 ## Notes
 
+To get thinner noodles, stretch them twice. The first pull should be able to get
+the noodles to about pencil thickness without breaking them.  Lay these out flat
+for five minutes or so and then stretch them again and you should be able to get
+them to almost twice the length.
+
 Use slightly less flour or slightly more water to get a stretchier dough.

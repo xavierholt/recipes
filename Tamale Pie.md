@@ -6,8 +6,8 @@
 - 1 large onion
 - 1 bell pepper
 
-Fry bacon in a large skillet until crisp.  Chop the onion and bell
-pepper; add them to the skillet and sauté until tender.
+Chop all ingredients.  Fry the bacon in a large skillet until crisp,
+then add the onion and bell pepper.  Sauté until tender.
 
 - 1 1/2 lb ground beef
 - 1 T chili powder

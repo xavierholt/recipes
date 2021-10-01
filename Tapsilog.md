@@ -1,6 +1,6 @@
 # Tapsilog
 
-## Ingredients & instructions
+## Ingredients & Instructions
 
 - 1 lb steak
 
@@ -25,7 +25,7 @@ butter and pouring that over the top.
 
 Fry the marinated steak over high heat until brown.  Serve over garlic
 rice.  Top with a fried egg.  This goes wonderfully with atachara, or
-pickled papaya.
+[pickled papaya][1].
 
 
 ## Notes
@@ -35,3 +35,6 @@ will easily feed two people; multiply as necessary.
 
 The marinade is very "dry," so I like to keep the marinading beef in
 a ziplock bag to ensure good contact.
+
+
+[1]: Pickled%Papaya.md

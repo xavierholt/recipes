@@ -10,9 +10,9 @@ with salt in a medium bowl.  Let sit for fifteen minutes.
 
 - 1/4 C sugar
 - 2 in ginger
-- 1 habañero
+- 1 habanero
 
-Rinse and drain the papaya slices.  Slice the ginger and habañeros.
+Rinse and drain the papaya slices.  Slice the ginger and habaneros.
 Mix these and the sugar into the papaya slices.
 
 - 1 bottle seasoned rice vinegar
@@ -24,5 +24,5 @@ slices are just submerged.  Refrigerate for at least two hours.
 ## Notes
 
 These are technically Malaysian, not Filipino, but I like to make them
-with [tapsilog][Tapsilog.md] anyway - you can make them and the
+with [tapsilog](Tapsilog.md) anyway - you can make them and the
 marinade the day before.

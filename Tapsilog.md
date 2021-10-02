@@ -24,7 +24,7 @@ butter and pouring that over the top.
 - 1 egg per serving
 
 Fry the marinated steak over high heat until brown.  Serve over garlic
-rice.  Top with a fried egg.  This goes wonderfully with atachara, or
+rice.  Top with a fried egg.  This goes wonderfully with atachara or
 [pickled papaya][1].
 
 

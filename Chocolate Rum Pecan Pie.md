@@ -1,8 +1,12 @@
 # Chocolate Rum Pecan Pie
 
-## Ingredients
+## Ingredients & Instructions
 
 - 1 [pie crust][1]
+- \~2 C toasted pecans
+
+Preheat oven  to 375 F.  Mix one pie crust.  Toast the pecans  in the oven while
+it's heating - this should take ten or fifteen minutes.
 
 - 1/3 C melted butter
 - 1 C dark corn syrup
@@ -10,23 +14,14 @@
 - 3 eggs
 - 1/2 tsp salt
 
-- ~2 C toasted pecans
+Mix the melted butter, corn syrup, brown sugar, eggs, and salt in a large bowl.
+
 - 1/2 C chocolate chips
 - 1/4 C rum
 
-
-## Instructions
-
-Mix one pie crust.
-
-Preheat oven to 375 F.  Toast the pecans while the oven is heating - this should
-take ten or fifteen minutes.
-
-Mix the melted butter, corn syrup, brown sugar, eggs, and salt  in a large bowl.
-Stir in the pecans, chocolate chips, and rum.
-
-Roll out the pie crust  and line a pie plate.  Pour in the filling.  Bake for 42
-minutes.
+Let the pecans cool slightly. Stir the pecans, chocolate chips, and rum into the
+filling.  Roll out the pie crust and line a pie plate. Add the filling.  Bake at
+375 F for 42 minutes.
 
 Serve with whipped cream or vanilla ice cream.
 

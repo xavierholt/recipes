@@ -31,7 +31,8 @@ Serve with whipped cream or vanilla ice cream.
 The filling tends to be a bit wetter than I like, especially when the pie is hot
 out of the oven.  I combat this  by using more brown sugar  and less corn syrup,
 and by letting the pie sit overnight  to solidify.  Refrigerating it works quite
-nicely as well.
+nicely as well (unless you have to hop on a 6 hour flight, in which case you 
+should just eat as much as you can).
 
 The rum and chocolate chips are both technically optional.  Replace these with a
 teaspoon or so of vanilla and you'll get a traditional pecan pie.

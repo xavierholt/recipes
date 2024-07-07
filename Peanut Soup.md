@@ -29,7 +29,7 @@ half an hour.
 - ground spices (above)
 - shallots
 
-Slice the shallots thin and fry it in a small pan until crispy.  When serving,
+Slice the shallots thin and fry them in a small pan until crispy.  When serving,
 top each bowl with fried shallots and a sprinkling of the remaining spices.
 
 

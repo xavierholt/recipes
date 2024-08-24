@@ -29,6 +29,8 @@ container at room temperature.  These muffins freeze well.  Makes 12 muffins.
 ## Notes
 
 Yogurt seems to work  just as well as sour cream.  One standard cup of yogurt is
-just about the amount called for; a six ounce cup is perfect.
+just about the amount called for;  a six ounce cup is perfect.  I've also used a
+full cup of sour cream  (it's one of the standard sizes from the grocery store),
+and that worked well too.
 
 Paper cupcake liners are recommended!

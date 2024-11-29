@@ -1,4 +1,4 @@
-# Hand-Pulled Noodles
+# Pulled Noodles
 
 Makes one large serving.
 
@@ -13,8 +13,8 @@ Mix all ingredients.  Knead.  Cover and set aside for 20 minutes.
 - oil
 
 Knead some more.  The dough should become very smooth.  Flatten the dough into a
-1/2 inch circle and oil well (to preserve moisture).  Cover with plastic wrap or
-a plate.  Let stand for 2 hours.
+1/2 inch high disc and rub with oil  (to preserve moisture).  Cover with plastic
+wrap or a plate.  Let stand for 2 hours.
 
 - water
 

@@ -15,7 +15,7 @@ Grind the garlic or chop it fine.  Mix all ingredients to make a marinade.
 
 - 1 lb white fish
 
-Chop the fish into medium chunks.  Marinade for half an hour to an hour.
+Chop the fish into medium chunks.  Marinate for half an hour to an hour.
 
 - oil
 - lemon juice (optional)

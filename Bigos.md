@@ -38,7 +38,7 @@ making a broth; add a little salt to encourage this if necessary.
 
 Add all the seasonings.
 
-- 1 jar sauerkraut
+- 1 jar sauerkraut (25 oz / 750 mL)
 - vegetable broth
 
 Add the sauerkraut and return the meat chunks to the dutch oven. Add just enough
@@ -53,9 +53,17 @@ also seasoned with caraway and marjoram, but I chose to leave those out and keep
 the focus on the core (and more unusual) seasonings.
 
 It doesn't really matter what meat you use, as long as it's dark meat.  Likewise
-with the sausages: any smoked Polish-style sausage is good.
+with the sausages: any smoked Polish-style sausage is good.  Most of the recipes
+explicitly called for porcini mushrooms, but I used what I had on hand.
 
 Don't  preemptively salt this!  The processed meats  and the sauerkraut are both
 already salty, so this should need very little extra salt, if any.
 
 I'm told this makes excellent leftovers.
+
+
+[recipe1]: <https://www.simplyrecipes.com/recipes/polish_hunters_stew/>
+[recipe2]: <https://www.jennycancook.com/recipes/polish-hunters-stew-bigos/>
+[recipe3]: <https://chefsbinge.com/bigos-polish-hunters-stew/>
+[recipe4]: <https://www.polishyourkitchen.com/polish-hunters-stew-bigos/>
+[recipe5]: <https://www.everydayhealthyrecipes.com/authentic-polish-bigos-stew-recipe/>

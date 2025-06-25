@@ -37,4 +37,4 @@ The marinade is very "dry," so I like to keep the marinading beef in
 a ziplock bag to ensure good contact.
 
 
-[1]: Pickled%Papaya.md
+[1]: <Pickled%20Papaya.md>

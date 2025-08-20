@@ -1,7 +1,7 @@
 # Balsamic Bacon
 
 A  noodle topping.  Makes  one serving.  This is one of my  classic toppings for
-[pn][pulled noodles].
+[pulled noodles](Pulled%20Noodles.md).
 
 
 ## Ingredients & Instructions

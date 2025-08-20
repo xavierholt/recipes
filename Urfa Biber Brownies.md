@@ -27,5 +27,5 @@ Transfer to a parchment-lined 8x8 baking pan; bake at 350 F for 30 minutes.
 ## Notes
 
 Urfa biber is a dried and ground Turkish pepper.  If you can't find it,  you can
-probably substitute anchos or pasillas,  which have a similar fruity flavor, but
-a little less spice.  I'm also curious about using chipotle powder.
+probably substitute anchos, pasillas, or guajillos,  which have a similar fruity
+flavor, but a little less spice.  I'm also curious about using chipotle powder.

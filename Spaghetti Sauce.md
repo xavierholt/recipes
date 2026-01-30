@@ -7,7 +7,7 @@ Makes about 5 1/2 cups.
 - 1/2 lb mushrooms
 - 1 onion, chopped
 - 1 clove garlic, minced
-- 1/4 C olice oil
+- 1/4 C olive oil
 
 Sauté mushrooms, onion, and garlic in oil until golden.
 

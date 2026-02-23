@@ -8,7 +8,7 @@ Preheat oven to 400 F.
 - 1 yellow onion
 - 6 T butter
 
-Mince the garlic.  Chop the onions.  Simmer them in butter until tender.
+Mince the garlic.  Chop the onion.  Simmer them in butter until tender.
 
 - 1 tsp salt
 - 2 T lemon juice

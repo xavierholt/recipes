@@ -38,7 +38,7 @@ We use this  to get rid of bread heels.  Almost any bread works, but if you like
 caraway, use Jewish rye!
 
 This works best  when the meat can be cut into true cubes.  Starting with thinly
-sliced meats will give  the right flavor,  but won't be as satisfying. 　Various
+sliced meats  will give  the right flavor,  but won't be as satisfying.  Various
 meats can be used: the original recipe used corned beef, our family version uses
 pastrami, and our most recent batch used ham.  All are delicious.
 

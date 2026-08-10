@@ -51,8 +51,9 @@ with enough of the dressing to coat lightly.
 - radish sprouts (optional)
 
 Divide the greens among six plates. Cut the chicken into 1/4-inch slices and put
-it on top of the greens, one breast per plate.  Garnish with green onions and/or
-radish sprouts.  Serve with the remaining dressing on the side.
+it on top of the greens, one breast per plate. Drizzle with dressing and garnish
+with green onions  and/or radish sprouts.  Serve with  the remaining dressing on
+the side.
 
 
 ## Notes

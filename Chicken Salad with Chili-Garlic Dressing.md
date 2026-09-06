@@ -62,3 +62,8 @@ I requested this for my high school graduation dinner, and that particular batch
 ended up being very, very spicy... It seems to mainly depend on the chili-garlic
 sauce you use, so if you want to be safe,  add that to the dressing one teaspoon
 at a time until you get to your desired level of spiciness.
+
+This recipe was entitled "Sliced Chicken Salad with Chili-Ginger Vinaigrette" in
+Mom's recipe collection, which is presumably the original name from wherever she
+found it,  but as the dressing contains no vinegar and only  second-hand ginger,
+I've taken some liberties with the name.

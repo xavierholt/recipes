@@ -38,3 +38,6 @@ pasta.
 
 This recipe  comes from Mom's  "green box"  of recipes,  card twenty.  It was my
 great grandma Lou's favorite.
+
+Most brands of stewed tomatoes have an  "Italian style"  version.  I usually use
+this and then don't bother adding any extra seasonings at the end.

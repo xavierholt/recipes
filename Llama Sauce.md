@@ -1,7 +1,7 @@
 # Llama Sauce
 
 A noodle toping. Makes two reasonably large servings.  This is one of my classic
-toppings for [pn][pulled noodles].
+toppings for [pulled noodles][pn].
 
 
 ## Ingredients & Instructions
@@ -19,7 +19,8 @@ think. You can add a little water and/or cover the pan to help cook more evenly.
 - 1-2 tsp crushed red pepper
 - 3 T soy sauce
 
-Mince the garlic.  Add the seasonings and continue cooking until the
+Mince  the garlic.  Add the  seasonings and continue cooking  until the eggplant
+breaks down and becomes a thick sauce.
 
 - 4 cloves garlic
 - prickly ash oil
